@@ -16,6 +16,8 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
+#define ODIN_SERIALIZER
+
 namespace OdinSerializer
 {
     using System;
